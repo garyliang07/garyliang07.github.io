@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Basic
-title: Guanxi-Liang's Blog
+title: Guanxi Liang
 subtitle: A blog full of fool things
 welcome_message: Please click the links blow
 description: 
@@ -14,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: blue
+cover_color: red
 
 # The blog button should not be removed.
 blog_button:
@@ -33,18 +32,18 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: guanxi-liang
+    disqus: vno-jekyll
     # duoshuo: 
     
 # Social
 social:
-    github: garyliang07
-    mail: garyliang86@foxmail.com
+    weibo: onevcat
+    github: onevcat
+    twitter: onevcat
+    gplus: 107108267983477358170
+    mail: onev@onevcat.com
 
 # Google Analytics
 ga:
     # id: your_ga_id
     # host: your_host
-=======
-theme: jekyll-theme-cayman
->>>>>>> eda498eed6026acf1db779cba5deaf34667a5059
