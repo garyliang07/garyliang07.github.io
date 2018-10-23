@@ -21,4 +21,4 @@ date: 2018-10-21 10:06:30.000000000 +08:00
 
 #### 个人简介
 
-&emsp;&emsp;点击[此处](http://localhost:4000/about/)，其实也没什么好写的( Ĭ ^ Ĭ ))
+&emsp;&emsp;点击[此处](https://garyliang07.github.io/about/)，其实也没什么好写的( Ĭ ^ Ĭ ))

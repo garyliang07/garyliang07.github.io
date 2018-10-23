@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: About me, description: Resume, url: 'http://localhost:4000/about/'}
+    - {title: About me, description: Resume, url: 'https://garyliang07.github.io/about/'}
     # - {title: Another Button, description: A button, url: 'http://example.com/about.html'}
 
 # Pagination
