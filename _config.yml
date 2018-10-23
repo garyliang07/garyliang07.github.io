@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: blue
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
@@ -22,8 +22,8 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    - {title: About me, description: Resume, url: 'http://localhost:4000/about/'}
+    # - {title: Another Button, description: A button, url: 'http://example.com/about.html'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -37,7 +37,10 @@ comment:
     
 # Social
 social:
-    gplus: 107108267983477358170
+    #weibo: onevcat
+    github: garyliang07
+    #twitter: onevcat
+    #gplus: 107108267983477358170
     mail: garyliang86@foxmail.com
 
 # Google Analytics
