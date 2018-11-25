@@ -236,7 +236,7 @@ ps：整完后，如果系统找不到g++，可以自己安装一下g++：
 
 当然也可以在图形界面上再确认下是否设置正确了：
 
-![有帮助的截图]({{ site.url }}/assets/images/screen2.png)
+![有帮助的截图](assets/images/screen2.png)
 
 
 ### 7. 补充：
