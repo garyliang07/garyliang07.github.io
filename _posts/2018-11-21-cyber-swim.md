@@ -33,7 +33,8 @@ mac或linux用户
 
 测试：点击打开上面谷歌学术网的链接，能看到熟悉的"站在巨人的肩膀上"就可以了:
 
-![有帮助的截图](https://github.com/garyliang07/garyliang07.github.io/raw/master/assets/images/screen3.png)
+![截图3](https://github.com/garyliang07/garyliang07.github.io/raw/master/assets/images/screen3.png)
+
 
 3. 如果没有ipv6,也有解决办法: 用隧道。
 
